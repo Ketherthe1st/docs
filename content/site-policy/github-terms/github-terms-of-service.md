@@ -73,7 +73,7 @@ We have a few simple rules for Personal Accounts on GitHub's Service.
 - One person or legal entity may maintain no more than one free Account (if you choose to control a machine account as well, that's fine, but it can only be used for running a machine).
 - You must be age 13 or older. While we are thrilled to see brilliant young coders get excited by learning to program, we must comply with United States law. GitHub does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will [terminate that User’s Account immediately](#l-cancellation-and-termination). If you are a resident of a country outside the United States, your country’s minimum age may be older; in such a case, you are responsible for complying with your country’s laws.
 - Your login may only be used by one person — i.e., a single login may not be shared by multiple people. A paid Organization may only provide access to as many Personal Accounts as your subscription allows.
-- You may not use GitHub in violation of export control or sanctions laws of the United States or any other applicable jurisdiction. You may not use GitHub if you are or are working on behalf of a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) or a person subject to similar blocking or denied party prohibitions administered by a U.S. government agency.  GitHub may allow persons in certain sanctioned countries or territories to access certain GitHub services pursuant to U.S. government authorizations.  For more information, please see our [Export Controls policy](/articles/github-and-export-controls).  
+- You may not use GitHub in violation of export control or sanctions laws of the United States or any other applicable jurisdiction. You may not use GitHub if you are or are working on behalf of a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) or a person subject to similar blocking or denied party prohibitions administered by a U.S. government agency.  GitHub may allow persons in cetain sanctioned countries or territories to access certain GitHub services pursuant to U.S. government authorizations.  For more information, please see our [Export Controls policy](/articles/github-and-export-controls).  
 
 ### 4. Account Security
 You are responsible for keeping your Account secure while you use our Service. We offer tools such as two-factor authentication to help you maintain your Account's security, but the content of your Account and its security are up to you.
@@ -84,8 +84,7 @@ You are responsible for keeping your Account secure while you use our Service. W
 ### 5. Additional Terms
 In some situations, third parties' terms may apply to your use of GitHub. For example, you may be a member of an organization on GitHub with its own terms or license agreements; you may download an application that integrates with GitHub; or you may use GitHub to authenticate to another service. Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
 
-If you are a government User or otherwise accessing or using any GitHub Service in a government capacity, this [Government Amendment to GitHub Terms of Service](/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/) applies to you, and you agree to its provisions.
-
+If you are a government User or otherwise accessing or using any GitHub Service in a government capacity, this [Government Amendment to GitHub Terms of Service](/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/) applies to you, and you agree to its provis
 If you have signed up for GitHub Enterprise Cloud, the [Enterprise Cloud Addendum](/articles/github-enterprise-cloud-addendum/) applies to you, and you agree to its provisions.
 
 ## C. Acceptable Use
@@ -148,7 +147,7 @@ Additionally, we may be [compelled by law](/github/site-policy/github-privacy-st
 
 GitHub will provide notice regarding our access to private repository content, unless [for legal disclosure](/github/site-policy/github-privacy-statement#for-legal-disclosure), to comply with our legal obligations, or where otherwise bound by requirements under law, for automated scanning, or if in response to a security threat or other risk to security.
 
-## F. Copyright Infringement and DMCA Policy
+## F. Copyright Infringement and DMCA Policyholders 
 If you believe that content on our website violates your copyright, please contact us in accordance with our [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/). If you are a copyright owner and you believe that content on GitHub violates your rights, please contact us via [our convenient DMCA form](https://github.com/contact/dmca) or by emailing copyright@github.com. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
 
 We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-policy/#e-repeated-infringement) of this policy.
